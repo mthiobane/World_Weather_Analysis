@@ -24,4 +24,3 @@ Use the Google Directions API to create a travel itinerary that shows the route 
 
 ## WeatherPy travel map With markers
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/89410157/135764836-d53c4b18-19b7-4cdf-8116-5cd5961add05.png)
-
